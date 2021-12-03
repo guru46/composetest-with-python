@@ -1,3 +1,4 @@
 passfile
 *.git
 flipkart.rds.aws.com.sql
+*.sql
